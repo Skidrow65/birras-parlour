@@ -1,0 +1,99 @@
+[
+    {
+        "id": 1,
+        "name": "Nike Airmax",
+        "price": 520,
+        "image": "images/air (2).jpeg"
+    },
+    {
+        "id": 2,
+        "name": "Nike Airmax",
+        "price": 220,
+        "image": "images/air (3).jpeg"
+    },
+    {
+        "id": 3,
+        "name": "Casio Watch",
+        "price": 250,
+        "image": "images/d (3).jpeg"
+    }
+    ,
+    {
+        "id": 4,
+        "name": "Nike Airmax",
+        "price": 420,
+        "image": "images/air (4).jpeg"
+    },
+    {
+        "id": 5,
+        "name": "Gucci Handbag",
+        "price": 120,
+        "image": "images/h.bag (2).jpeg"
+    },
+    {
+        "id": 6,
+        "name": "Gucci Sunglasses",
+        "price": 120,
+        "image": "images/eyes.jpeg"
+    },
+    {
+        "id": 7,
+        "name": "Gucci Sunglasses",
+        "price": 120,
+        "image": "images/e1.jpeg"
+    },
+    {
+        "id": 8,
+        "name": "Gucci Sunglasses",
+        "price": 120,
+        "image": "images/w2.jpeg"
+    },
+    {
+        "id": 9,
+        "name": "Gucci Sunglasses",
+        "price": 120,
+        "image": "images/w3.jpeg"
+    },
+    {
+        "id": 10,
+        "name": "Gucci Sunglasses",
+        "price": 120,
+        "image": "images/h.bag (3).jpeg"
+    },
+    {
+        "id": 11,
+        "name": "Gucci Sunglasses",
+        "price": 120,
+        "image": "images/h.bag (5).jpeg"
+    },
+    {
+        "id": 12,
+        "name": "Gucci Sunglasses",
+        "price": 120,
+        "image": "images/h.bag (4).jpeg"
+    },
+    {
+        "id": 13,
+        "name": "Gucci Sunglasses",
+        "price": 120,
+        "image": "images/deals.jpeg"
+    },
+    {
+        "id": 14,
+        "name": "Gucci Sunglasses",
+        "price": 120,
+        "image": "images/e1.jpeg"
+    },
+    {
+        "id": 15,
+        "name": "Gucci Sunglasses",
+        "price": 120,
+        "image": "images/deals (1).jpeg"
+    },
+    {
+        "id": 16,
+        "name": "Gucci Sunglasses",
+        "price": 120,
+        "image": "images/deals (2).jpeg"
+    }
+]
